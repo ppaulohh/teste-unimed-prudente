@@ -37,7 +37,7 @@
   http://localhost:3000/pacientes/consultas-e-exames
   
   Cria nova consulta ou exames para o paciente
-  http://localhost:3000/pacientes/consultas-e-exames
+  http://localhost:3000/pacientes/consultas-e-exames/new
   
 * Deployment instructions
   bundle install (no diretório do repositório clonado)
